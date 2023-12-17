@@ -3,6 +3,7 @@
 Для чего это нужно:
 
 https://t.me/raznorabochiy_notes/36
+
 https://t.me/raznorabochiy_notes/37
 
 ## Поблагодарить автора можно отправив донат в любой evm сети на:
